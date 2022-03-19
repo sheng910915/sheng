@@ -1,5 +1,5 @@
 <?php
-namespace Sheng;
+namespace Sophie\Sheng;
 
 class Main
 {

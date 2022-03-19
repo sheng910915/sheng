@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="416040ad-680c-4bb0-86ec-4ce5da2f4b6f" name="变更" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Sophie.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sophie.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +149,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647608770017</updated>
-      <workItem from="1647608771346" duration="2531000" />
+      <workItem from="1647608771346" duration="5553000" />
     </task>
     <servers />
   </component>
