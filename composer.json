@@ -1,0 +1,16 @@
+{
+    "name": "sophie/sheng",
+    "description": "This is first test",
+    "autoload": {
+        "psr-4": {
+            "Sophie\\Sheng\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sunguangsheng",
+            "email": "sunguangsheng@yuanxinjituan.com"
+        }
+    ],
+    "require": {}
+}
