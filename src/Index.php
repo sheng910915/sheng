@@ -1,7 +1,7 @@
 <?php
-namespace Sopine\Sheng;
+namespace Sheng;
 
-class Main
+class Index
 {
     public static function smoke () {
         echo '走，冒一根';
