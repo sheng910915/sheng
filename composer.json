@@ -1,9 +1,10 @@
 {
-    "name": "sophie/sheng",
-    "description": "This is first test",
+    "name": "sophie/sound",
+    "description": "00",
+    "type": "library",
     "autoload": {
         "psr-4": {
-            "Sophie\\Sheng\\": "src/"
+            "Sophie\\Sound\\": "src/"
         }
     },
     "authors": [
